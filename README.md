@@ -15,11 +15,11 @@ I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract 
 
 ### Connect with me:
 
-[<img align="left" alt="jason | Facebook" width="100px" height="25px" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
-[<img align="left" alt="jason | Github" width="100px" height="25px" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" />][github]
-[<img align="left" alt="jason | Email" width="100px" height="25px" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
-[<img align="left" alt="jason | LinkedIn" width="100px" height="25px" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" />][linkedin]
-[<img align="left" alt="jason | Telegram" width="100px" height="25px" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img align="left" alt="jason | Facebook" width="100px" height="30px" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="jason | Github" width="100px" height="30px" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black" />][github]
+[<img align="left" alt="jason | Email" width="100px" height="30px" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img align="left" alt="jason | LinkedIn" width="100px" height="30px" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" />][linkedin]
+[<img align="left" alt="jason | Telegram" width="100px" height="30px" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
 <br />
 
