@@ -19,14 +19,16 @@ I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract 
 [<img align="left" alt="jason | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
 [<img align="left" alt="jason | LinkedIn" width="22px" src="https://banner2.cleanpng.com/20180406/jpq/kisspng-linkedin-logo-computer-icons-comcast-business-get-started-now-button-5ac6f544698595.9898331815229883564322.jpg" />][linkedin]
 
+<br />
 
-**Languages and Tools**:
+### Languages and Tools:
+---
 - Some technologies i enjoy working with include:
  - Front-end: ReactJs / NextJs / Yew
  - Back-end: Nodejs / Actix / Rocket
  - Database: MongoDb / MySQL / PostgreSQL
  - Blockchain Foundation: Ethereum Virtual Machine / Cosmos Atom / Solana / Flow / Aptos / SUI
  - Languages: Javascript / **Typescript** / **Rust** / *Move* / *Solidity* / *Java*
-
+---
 <br />
 <br />
