@@ -8,7 +8,7 @@
 
 I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract Developer.
 - 🔭 I’m working on STI Solutions at this time.
-- 🌱 I’m currently learning `node.js`, `python`, `devops` techniques like `aws`, `docker`, `kubernetes` ans `linux system`.
+- 🌱 I’m currently working with `solidity`, `rust`, `move`, `devops` techniques like `blockchain`, `web3`, `docker` and `aws`.
 - 🥅 Goals: I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology.
 - ⚡ Fun fact: I love ⚽️ | 🐱 | 🐶 | 🎸
 
@@ -25,10 +25,11 @@ I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract 
 ---
 - Some technologies i enjoy working with include:
  - Front-end: ReactJs / NextJs / Yew
- - Back-end: Nodejs / Actix / Rocket
+ - Back-end: Nodejs / Spring / Actix / Rocket
  - Database: MongoDb / MySQL / PostgreSQL
- - Blockchain Foundation: Ethereum Virtual Machine / Cosmos Atom / Solana / Flow / Aptos / SUI
+ - Blockchain Foundation: Ethereum Virtual Machine / ZK / Cosmos Atom / Solana / Elrond Network (EGLD) / Aptos / SUI
  - Languages: Javascript / **Typescript** / **Rust** / *Move* / *Solidity* / *Java*
+ - Devops: AWS / Terraform / CICD / *Docker*
 ---
 <br />
 <br />
