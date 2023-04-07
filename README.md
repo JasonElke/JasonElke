@@ -3,6 +3,7 @@
 [github]: https://github.com/JasonElke
 [gmail]: mailto:thhuondnn@gmail.com
 [linkedin]: https://www.linkedin.com/in/thuongth/
+[telegram]: https://t.me/jr_jason
 
 ### Hi there, I'm Thuong Thai (Jason) 👋
 
@@ -14,10 +15,11 @@ I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract 
 
 ### Connect with me:
 
-[<img align="left" alt="jason | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Facebook-icon-1.png/600px-Facebook-icon-1.png" />][facebook]
-[<img align="left" alt="jason | Github" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/600px-Octicons-mark-github.svg.png" />][github]
-[<img align="left" alt="jason | Email" width="22px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />][gmail]
-[<img align="left" alt="jason | LinkedIn" width="22px" src="https://banner2.cleanpng.com/20180406/jpq/kisspng-linkedin-logo-computer-icons-comcast-business-get-started-now-button-5ac6f544698595.9898331815229883564322.jpg" />][linkedin]
+[<img align="left" alt="jason | Facebook" width="22px" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="jason | Github" width="22px" src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img align="left" alt="jason | Email" width="22px" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" />][gmail]
+[<img align="left" alt="jason | LinkedIn" width="22px" src="https://img.shields.io/badge/Linkedin-white?style=for-the-badge&logo=linkedin&logoColor=blue" />][linkedin]
+[<img align="left" alt="jason | Telegram" width="22px" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
 <br />
 
