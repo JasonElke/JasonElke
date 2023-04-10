@@ -29,10 +29,10 @@ I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract 
 - Some technologies i enjoy working with include:
  - Front-end: ReactJs / NextJs / Yew
  - Back-end: Nodejs / Spring / Actix / Rocket
- - Database: MongoDb / MySQL / PostgreSQL
+ - Database: MongoDb / MySQL / PostgreSQL / LevelDB
  - Blockchain Foundation: Ethereum Virtual Machine / Zk-EVM / Cosmos Atom / Solana / Aptos / SUI / Elrond Network (EGLD)
  - Languages: Javascript / **Typescript** / **Rust** / *Move* / *Solidity* / *Java*
- - Devops: AWS / Terraform / *CI-CD* / *Docker*
+ - Devops: AWS / Terraform / *CircleCI* / *Docker*
 ---
 <br />
 <br />
