@@ -5,7 +5,7 @@
 [linkedin]: https://www.linkedin.com/in/thuongth/
 [telegram]: https://t.me/jr_jason
 
-### Hi there, I'm Thuong Thai (Jason) 👋
+#### Hi there, I'm Thuong Thai (Jason) 👋
 
 I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract Developer.
 - 🔭 I’m working on STI Solutions at this time.
