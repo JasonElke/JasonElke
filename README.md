@@ -8,7 +8,6 @@
 #### Hi there, I'm Thuong Thai (Jason) 👋
 
 I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract Developer.
-- 🔭 I’m working on STI Solutions at this time.
 - 🌱 I’m currently working with `solidity`, `rust`, `move`, `devops` techniques like `blockchain`, `web3`, `smart contract`, `docker` and `aws`.
 - 🥅 Goals: I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology.
 - ⚡ I love  📗 | 🔮 | 🧘 | 🐶 
