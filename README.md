@@ -1,5 +1,4 @@
 <!-- List Of Websites-->
-[facebook]: https://www.facebook.com/thuongzzu/
 [github]: https://github.com/JasonElke
 [gmail]: mailto:thhuondnn@gmail.com
 [linkedin]: https://www.linkedin.com/in/thuongth/
