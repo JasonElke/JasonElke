@@ -7,7 +7,7 @@
 #### Hi there, I'm Thuong Thai (Jason) 👋
 
 I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract Developer.
-- 🌱 I’m currently working with `solidity`, `rust`, `move`, `devops` techniques like `blockchain`, `web3`, `smart contract`, `docker` and `aws`.
+- 🌱 I’m currently working with `go`, `rust`, `solidity`, `move`, `devops` techniques like `blockchain`, `web3`, `smart contract`, `docker` and `aws`.
 - 🥅 Goals: I have a passionate about making contributing to open-source more appoachable, creating technology about Blockchain to make elevate technology.
 - ⚡ I love  📗 | 🔮 | 🧘 | 🐶 
 ### 🎉 Connect with me:
@@ -23,12 +23,13 @@ I'm a *Blockchain Engineer* on Viet Nam, specifically a Web3 and Smart Contract 
 ### 🎯 Languages and Tools:
 ---
 - Some technologies i enjoy working with include:
+ - App: Flutter 
  - Front-end: ReactJs / NextJs / Yew
- - Back-end: Nodejs / Spring / Actix / Rocket
- - Database: MongoDb / MySQL / PostgreSQL / LevelDB
- - Blockchain Foundation: Ethereum Virtual Machine / Zk-EVM / Cosmos Atom / Solana / Aptos / SUI / Elrond Network (EGLD)
- - Languages: / **Solidity-Yul** / **Javascript** / **Typescript** / **Rust** / **Move** / **Java**
- - Devops: AWS / Terraform / *CircleCI* / *Docker*
+ - Back-end: Actix / Rocket / Nodejs / Spring
+ - Database: NoSQL / MySQL / PostgreSQL / LevelDB
+ - Blockchain: Ethereum Virtual Machine / Zk-EVM / Cosmos Atom / Solana / Aptos / SUI / Elrond Network (EGLD)
+ - Languages:/ **Go** / **Rust** / **Solidity-Yul** / **Typescript** / **Move** / **Java** / **C-Cpp** /
+ - Devops: AWS / Terraform / *CircleCI* / *Docker* / *Kubernetes*
 ---
 <br />
 <br />
