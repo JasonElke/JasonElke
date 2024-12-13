@@ -4,9 +4,9 @@
 [linkedin]: https://www.linkedin.com/in/thuongth/
 [telegram]: https://t.me/jr_jason
 
-#### Hi there, I'm Thuong Thai (Jason) 👋
+#### Hi there, I'm Thuong (Jason) Thai👋
 
-I'm a *Blockchain Engineer* on Viet Nam, specifically a builder with a spirit to make everyone happy with my own products.
+I'm a *Nova Builder* on Viet Nam, specifically a builder with a spirit to make everyone happy with my own products.
 
 - 🌱 I’m currently working with `go`, `rust`, `solidity`, `move`, `devops` techniques like `blockchain`, `web3`, `smart contract`, `docker` and `aws`.
 - 🎯 I have a passionate about making contributing to production more appoachable, creating technology about finance to make elevate technology and devoting to community life as spirit of builder.
